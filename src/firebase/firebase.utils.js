@@ -4,13 +4,13 @@ import 'firebase/auth';
 
 const config = {
 
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: ""
+    apiKey: "AIzaSyC5WOd2D_RbSXc5vFc5vBMhm4s5ZYvw_yE",
+    authDomain: "crown-db-84b92.firebaseapp.com",
+    databaseURL: "https://crown-db-84b92.firebaseio.com",
+    projectId: "crown-db-84b92",
+    storageBucket: "crown-db-84b92.appspot.com",
+    messagingSenderId: "235344701633",
+    appId: "1:235344701633:web:e3ff5f934cf75efe4a8c40"
 
 };
 
